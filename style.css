@@ -1,0 +1,40 @@
+.heading{
+    text-align: left;
+    width:100%;
+}
+.big_image{
+    width :100%;
+}
+#start, #status{
+    font-size: 25px;
+}
+
+.instructuon_image{
+    display : inline-block;
+width:45%;
+}
+
+h4{
+    background-color: darkgray;
+    line-height: 2;
+    margin: 1px;
+
+}
+
+.heading button{
+float: right;
+border: 1px solid gray;
+}
+
+.heading h3{
+    display: inline;
+}
+.modal-dialog{
+    width:100%;
+}
+video{
+    background: url('game_console.png');
+    background-size:cover;
+    background-position: center;
+    padding: 25px;
+}
